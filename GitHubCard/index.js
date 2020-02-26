@@ -32,7 +32,7 @@ let gitHubUser = axios
 */
 
 const followersArray = [
-  "arkstreett",
+  "cmrivera",
   "tetondan",
   "dustinmyers",
   "justsml",
